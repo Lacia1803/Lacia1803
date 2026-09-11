@@ -18,7 +18,6 @@
 - 💼 Currently interning at the university's IT Center, working on an **IT Helpdesk** system
 - 🌱 Deepening my skills in **Next.js / Node.js / PostgreSQL / Docker**
 - 🎯 Goal: become a Fullstack Developer and land a job right after graduation
-- ⚡ Outside of coding: fitness, Dune, Fate/Grand Order, League of Legends
 
 ---
 
