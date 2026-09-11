@@ -80,4 +80,4 @@
   <a href="mailto:phungvoquochien.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>“The curtain falls, but the dream goes on.” — Oberon</i></p>
+<p align="center"><i>“The curtain falls, but the dream goes on.”</i></p>
