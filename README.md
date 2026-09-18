@@ -14,41 +14,106 @@
 
 </div>
 
-&nbsp;
+<br />
 
 I build web software end to end — from database schema to the last pixel. Right now I'm finishing my degree and shipping an IT helpdesk system for my university.
 
-&nbsp;
+<br />
 
-## Currently
+| | |
+|---|---|
+| **Now** | Interning at the IT Center, Dalat University — building **DLU OneDesk**, an IT helpdesk and lab-equipment platform. |
+| **Thesis** | `Next.js 16` · `Prisma` · `PostgreSQL` · `NextAuth` with two-factor auth, wrapped in Docker. |
+| **Next** | Looking for a **Fullstack Developer** role starting after graduation. |
 
-- Interning at the **IT Center, Dalat University** — building **DLU OneDesk**, an IT helpdesk and lab-equipment platform
-- Writing a graduation thesis around it: `Next.js 16` · `Prisma` · `PostgreSQL` · `NextAuth` with 2FA
-- Looking for a **Fullstack Developer** role starting after graduation
+<br />
 
-&nbsp;
+---
 
 ## Selected work
 
-**[DLU OneDesk](https://github.com/Lacia1803/dlu-onedesk)** — IT helpdesk and lab-equipment management for a university IT center. Ticket lifecycle, role-based access, two-factor auth, AI-assisted triage via the Gemini API, containerised with Docker.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**[FitTrack](https://github.com/Lacia1803/fittrack)** — Workout and nutrition tracker built as an installable PWA. Offline-first data layer backed by Supabase.
+### DLU OneDesk
 
-**[DoAnWebNangCao](https://github.com/Lacia1803/DoAnWebNangCao)** — Library management system with full CRUD, authentication, and role management across a Node/Express API and a React client.
+IT helpdesk and lab-equipment management for a university IT center.
 
-**[Ebook2LaTeX](https://github.com/Lacia1803/Ebook2LaTeX)** — Python tool that converts ebooks into clean, typesettable LaTeX.
+Ticket lifecycle, role-based access, two-factor authentication, and AI-assisted triage through the Gemini API.
 
-&nbsp;
+`Next.js 16` `Prisma` `PostgreSQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### FitTrack
+
+Workout and nutrition tracker built as an installable PWA.
+
+Offline-first data layer backed by Supabase, with a focus on fast logging and no friction.
+
+`Next.js 15` `Supabase` `PWA` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### DoAnWebNangCao
+
+Library management system with full CRUD, authentication, and role management.
+
+A Node/Express API with a React client, containerised for easy deployment.
+
+`Node.js` `Express` `React` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### Ebook2LaTeX
+
+Python tool that converts ebooks into clean, typesettable LaTeX.
+
+Handles chapter splitting and escaping so the output compiles without manual cleanup.
+
+`Python` `LaTeX`
+
+</td>
+</tr>
+</table>
+
+<br />
+
+---
 
 ## Tools I reach for
 
-`TypeScript` &nbsp; `JavaScript` &nbsp; `Python` &nbsp; `C#` &nbsp; `SQL`
+<div align="center">
 
-`Next.js` &nbsp; `React` &nbsp; `Tailwind CSS` &nbsp; `Node.js` &nbsp; `Express`
+![TypeScript](https://img.shields.io/badge/TypeScript-6B7280?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-6B7280?style=flat-square)
+![Python](https://img.shields.io/badge/Python-6B7280?style=flat-square)
+![C%23](https://img.shields.io/badge/C%23-6B7280?style=flat-square)
 
-`PostgreSQL` &nbsp; `Prisma` &nbsp; `Supabase` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Linux`
+![Next.js](https://img.shields.io/badge/Next.js-6B7280?style=flat-square)
+![React](https://img.shields.io/badge/React-6B7280?style=flat-square)
+![Tailwind](https://img.shields.io/badge/Tailwind-6B7280?style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-6B7280?style=flat-square)
+![Express](https://img.shields.io/badge/Express-6B7280?style=flat-square)
 
-&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6B7280?style=flat-square)
+![Prisma](https://img.shields.io/badge/Prisma-6B7280?style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-6B7280?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-6B7280?style=flat-square)
+![Git](https://img.shields.io/badge/Git-6B7280?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-6B7280?style=flat-square)
+
+</div>
+
+<br />
+
+---
 
 ## Stats
 
@@ -65,15 +130,20 @@ I build web software end to end — from database schema to the last pixel. Righ
 
 </div>
 
-&nbsp;
+<br />
 
-## Elsewhere
-
-<a href="mailto:phungvoquochien.dev@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://github.com/Lacia1803">GitHub</a>
+---
 
 <div align="center">
 
-<br />
+<a href="mailto:phungvoquochien.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Lacia1803">
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br /><br />
 
 *The curtain falls, but the dream goes on.*
 
