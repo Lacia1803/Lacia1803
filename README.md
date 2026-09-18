@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Lacia1803">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=200&section=header&text=Lacia&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" alt="Lacia" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:06B6D4&height=220&section=header&text=Lacia&fontSize=76&fontColor=ffffff&fontAlignY=36&fontFamily=Palatino%2C%20%22Palatino%20Linotype%22%2C%20%22Book%20Antiqua%22%2C%20Georgia%2C%20serif&desc=Fullstack%20Developer%20%E2%80%A2%20Software%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" alt="Lacia" />
 </a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=640&height=45&lines=Fullstack+Developer+%7C+Next.js+%2B+Node.js;Final-year+SE+%40+Dalat+University;Building+DLU+OneDesk+%F0%9F%96%A5%EF%B8%8F;Always+learning%2C+always+shipping." alt="Typing SVG" />
