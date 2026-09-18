@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Lacia - Fullstack Developer">
+  <title>Lacia — Fullstack Developer</title>
+  <desc>Banner giới thiệu với tên Lacia, vai trò Fullstack Developer, và các công nghệ chính dạng hình khối.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="55%" stop-color="#111C33"/>
+      <stop offset="100%" stop-color="#0A1628"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity=".7"/>
+      <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#1E3A5F" stroke-width="0.5" opacity="0.5"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <circle cx="1050" cy="60" r="180" fill="#38BDF8" opacity="0.05"/>
+  <circle cx="1130" cy="280" r="130" fill="#A78BFA" opacity="0.06"/>
+
+  <g opacity="0.45" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#38BDF8">
+    <text x="60" y="52">&lt;developer&gt;</text>
+  </g>
+
+  <g transform="translate(80, 74)">
+    <rect x="0" y="0" width="52" height="52" rx="13" fill="#0F1B2E" stroke="url(#accent)" stroke-width="1.5"/>
+    <path d="M18 34 L30 15 L34 24 L40 24" fill="none" stroke="url(#accent)" stroke-width="2.4"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="152" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="60" font-weight="700" fill="#F0F6FC" letter-spacing="-1.5">Lacia</text>
+
+  <text x="154" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="16" font-weight="500" fill="#38BDF8" letter-spacing="0.5">Fullstack Developer</text>
+
+  <text x="154" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="14.5" fill="#8B9DB5">Software Engineering · Dalat University</text>
+
+  <line x1="152" y1="196" x2="1120" y2="196" stroke="url(#rule)" stroke-width="1"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5">
+    <g>
+      <rect x="152" y="216" width="86" height="30" rx="8" fill="#0F1B2E" stroke="#38BDF8" stroke-width="0.8" opacity="0.9"/>
+      <text x="195" y="236" text-anchor="middle" fill="#7DD3FC">Next.js</text>
+    </g>
+    <g>
+      <rect x="246" y="216" width="82" height="30" rx="8" fill="#0F1B2E" stroke="#38BDF8" stroke-width="0.8" opacity="0.9"/>
+      <text x="287" y="236" text-anchor="middle" fill="#7DD3FC">React</text>
+    </g>
+    <g>
+      <rect x="336" y="216" width="96" height="30" rx="8" fill="#0F1B2E" stroke="#38BDF8" stroke-width="0.8" opacity="0.9"/>
+      <text x="384" y="236" text-anchor="middle" fill="#7DD3FC">Node.js</text>
+    </g>
+    <g>
+      <rect x="440" y="216" width="106" height="30" rx="8" fill="#0F1B2E" stroke="#A78BFA" stroke-width="0.8" opacity="0.9"/>
+      <text x="493" y="236" text-anchor="middle" fill="#C4B5FD">PostgreSQL</text>
+    </g>
+    <g>
+      <rect x="554" y="216" width="76" height="30" rx="8" fill="#0F1B2E" stroke="#A78BFA" stroke-width="0.8" opacity="0.9"/>
+      <text x="592" y="236" text-anchor="middle" fill="#C4B5FD">Docker</text>
+    </g>
+    <g>
+      <rect x="638" y="216" width="96" height="30" rx="8" fill="#0F1B2E" stroke="#A78BFA" stroke-width="0.8" opacity="0.9"/>
+      <text x="686" y="236" text-anchor="middle" fill="#C4B5FD">Prisma</text>
+    </g>
+    <g>
+      <rect x="742" y="216" width="108" height="30" rx="8" fill="#0F1B2E" stroke="#34D399" stroke-width="0.8" opacity="0.9"/>
+      <text x="796" y="236" text-anchor="middle" fill="#6EE7B7">TypeScript</text>
+    </g>
+  </g>
+
+  <g transform="translate(152, 268)">
+    <circle cx="4" cy="4" r="4" fill="#34D399" filter="url(#glow)"/>
+    <text x="18" y="8.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+          font-size="12.5" fill="#6EE7B7">Open to work — Fullstack roles</text>
+  </g>
+
+  <text x="1120" y="60" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" fill="#38BDF8" opacity="0.45">&lt;/developer&gt;</text>
+
+  <text x="1120" y="292" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace"
+        font-size="10" fill="#3D4F66">last updated 2026</text>
+</svg>
