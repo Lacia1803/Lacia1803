@@ -86,13 +86,13 @@ const lacia = {
 <div align="center">
 
 <a href="https://github.com/Lacia1803/dlu-onedesk">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lacia1803&repo=dlu-onedesk&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lacia1803&repo=dlu-onedesk&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
 </a>
 <a href="https://github.com/Lacia1803/fittrack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lacia1803&repo=fittrack&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lacia1803&repo=fittrack&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
 </a>
 <a href="https://github.com/Lacia1803/DoAnWebNangCao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lacia1803&repo=DoAnWebNangCao&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Lacia1803&repo=DoAnWebNangCao&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=06B6D4&text_color=6B7280&bg_color=00000000" height="115" />
 </a>
 
 </div>
@@ -111,8 +111,8 @@ const lacia = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Lacia1803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lacia1803&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=06B6D4" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Lacia1803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lacia1803&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=6366F1&icon_color=06B6D4" alt="GitHub stats" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Lacia1803&theme=tokyonight&hide_border=true&background=00000000&fire=8B5CF6&ring=06B6D4" />
@@ -122,8 +122,8 @@ const lacia = {
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacia1803&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lacia1803&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=6366F1" alt="Top languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lacia1803&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lacia1803&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=6366F1" alt="Top languages" />
 </picture>
 
 </div>
