@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg" alt="Phùng Võ Quốc Hiển (Lacia) — Fullstack Developer" />
-</picture>
+<a href="mailto:phungvoquochien.dev@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=2" />
+    <img width="100%" src="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=2" alt="Lacia — Fullstack Developer" />
+  </picture>
+</a>
 
 <br />
 
@@ -55,17 +57,17 @@ Final-year **Software Engineering** student at **Dalat University** (CTK46-PM), 
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=4B8BBE) ![C#](https://img.shields.io/badge/C%23-18181B?style=flat-square&logo=dotnet&logoColor=A78BFA) ![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=8993BE) ![SQL](https://img.shields.io/badge/SQL-18181B?style=flat-square&logo=postgresql&logoColor=60A5FA) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-18181B?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=38BDF8) |
-| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=60A5FA) ![MariaDB](https://img.shields.io/badge/MariaDB-18181B?style=flat-square&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-18181B?style=flat-square&logo=redis&logoColor=FF4438) ![Supabase](https://img.shields.io/badge/Supabase-18181B?style=flat-square&logo=supabase&logoColor=3FCF8E) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-18181B?style=flat-square&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=22C55E) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-18181B?style=flat-square&logo=githubactions&logoColor=2088FF) ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-18181B?style=flat-square&logo=linux&logoColor=FCC624) |
+| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-1d1d1f?style=flat&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-1d1d1f?style=flat&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-1d1d1f?style=flat&logo=python&logoColor=4B8BBE) ![C#](https://img.shields.io/badge/C%23-1d1d1f?style=flat&logo=dotnet&logoColor=A78BFA) ![PHP](https://img.shields.io/badge/PHP-1d1d1f?style=flat&logo=php&logoColor=8993BE) ![SQL](https://img.shields.io/badge/SQL-1d1d1f?style=flat&logo=postgresql&logoColor=60A5FA) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-1d1d1f?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-1d1d1f?style=flat&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1d1d1f?style=flat&logo=tailwindcss&logoColor=38BDF8) |
+| **Backend & Data** | ![Node.js](https://img.shields.io/badge/Node.js-1d1d1f?style=flat&logo=nodedotjs&logoColor=5FA04E) ![Express](https://img.shields.io/badge/Express-1d1d1f?style=flat&logo=express&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-1d1d1f?style=flat&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1d1d1f?style=flat&logo=postgresql&logoColor=60A5FA) ![MariaDB](https://img.shields.io/badge/MariaDB-1d1d1f?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-1d1d1f?style=flat&logo=redis&logoColor=FF4438) ![Supabase](https://img.shields.io/badge/Supabase-1d1d1f?style=flat&logo=supabase&logoColor=3FCF8E) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-1d1d1f?style=flat&logo=docker&logoColor=2496ED) ![Nginx](https://img.shields.io/badge/Nginx-1d1d1f?style=flat&logo=nginx&logoColor=22C55E) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1d1d1f?style=flat&logo=githubactions&logoColor=2088FF) ![Git](https://img.shields.io/badge/Git-1d1d1f?style=flat&logo=git&logoColor=F05032) ![Linux](https://img.shields.io/badge/Linux-1d1d1f?style=flat&logo=linux&logoColor=FCC624) |
 
 ---
 
 ### Contact
 
 <a href="mailto:phungvoquochien.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-phungvoquochien.dev%40gmail.com-059669?style=flat-square&labelColor=18181B&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Get_in_touch-0066cc?style=flat&labelColor=1d1d1f&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br />
