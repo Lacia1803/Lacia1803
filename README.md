@@ -1,8 +1,8 @@
 <a href="mailto:phungvoquochien.dev@gmail.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=2" />
-    <img width="100%" src="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=2" alt="Lacia — Fullstack Developer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-dark.svg?v=3" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=3" />
+    <img width="100%" src="https://raw.githubusercontent.com/Lacia1803/Lacia1803/main/assets/banner-light.svg?v=3" alt="Lacia — Fullstack Developer" />
   </picture>
 </a>
 
