@@ -1,9 +1,80 @@
-<svg width="880" height="216" viewBox="0 0 880 216" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lacia — Fullstack Developer">
-  <rect width="880" height="216" rx="18" fill="#f5f5f7" />
+<svg width="880" height="260" viewBox="0 0 880 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lacia — Fullstack Developer">
+  <defs>
+    <filter id="win-shadow-light" x="-15%" y="-15%" width="130%" height="145%">
+      <feDropShadow dx="0" dy="8" stdDeviation="14" flood-color="#000000" flood-opacity="0.12" />
+    </filter>
+    <clipPath id="win-clip-light">
+      <rect x="436" y="30" width="400" height="200" rx="12" />
+    </clipPath>
+  </defs>
 
-  <text x="440" y="92" text-anchor="middle" fill="#1d1d1f" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="-0.6">Lacia</text>
+  <!-- Flat Apple Parchment Tile surface (#f5f5f7) -->
+  <rect width="880" height="260" rx="18" fill="#f5f5f7" />
 
-  <text x="440" y="130" text-anchor="middle" fill="#333333" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400" letter-spacing="-0.22">Fullstack Developer. Next.js, Node.js, PostgreSQL &amp; Docker.</text>
+  <!-- Left column: Apple Display Typography + Blue Pill CTA -->
+  <text x="44" y="64" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="-0.1">Fullstack Developer</text>
 
-  <text x="440" y="166" text-anchor="middle" fill="#0066cc" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" letter-spacing="-0.2">Open to Fullstack roles &#x203A;</text>
+  <text x="44" y="114" fill="#1d1d1f" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="600" letter-spacing="-1">Lacia</text>
+
+  <text x="44" y="148" fill="#333333" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" letter-spacing="-0.22">Building web apps &amp; internal IT systems</text>
+  <text x="44" y="170" fill="#333333" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15.5" font-weight="400" letter-spacing="-0.22">with Next.js, Node.js, PostgreSQL &amp; Docker.</text>
+
+  <!-- Primary Apple Blue Pill + Secondary Link -->
+  <rect x="44" y="194" width="118" height="34" rx="17" fill="#0066cc" />
+  <text x="103" y="215.5" text-anchor="middle" fill="#ffffff" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" letter-spacing="-0.15">Get in touch</text>
+  <text x="180" y="215.5" fill="#0066cc" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400" letter-spacing="-0.15">Open to work &#x203A;</text>
+
+  <!-- Right column: Floating macOS Window Product Artifact -->
+  <rect x="436" y="30" width="400" height="200" rx="12" fill="#ffffff" filter="url(#win-shadow-light)" />
+
+  <g clip-path="url(#win-clip-light)">
+    <!-- Window Body -->
+    <rect x="436" y="30" width="400" height="200" fill="#ffffff" />
+
+    <!-- macOS Titlebar -->
+    <rect x="436" y="30" width="400" height="30" fill="#fbfbfd" />
+    <line x1="436" y1="60" x2="836" y2="60" stroke="#000000" stroke-opacity="0.07" stroke-width="1" />
+    <circle cx="454" cy="45" r="4.5" fill="#ff5f57" />
+    <circle cx="468" cy="45" r="4.5" fill="#febc2e" />
+    <circle cx="482" cy="45" r="4.5" fill="#28c840" />
+    <text x="636" y="49" text-anchor="middle" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="400">lacia — projects</text>
+
+    <!-- Table Header -->
+    <text x="454" y="79" fill="#86868b" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.5">PROJECT</text>
+    <text x="580" y="79" fill="#86868b" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.5">STACK</text>
+    <text x="818" y="79" text-anchor="end" fill="#86868b" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.5">STATUS</text>
+    <line x1="454" y1="87" x2="818" y2="87" stroke="#000000" stroke-opacity="0.07" stroke-width="1" />
+
+    <!-- Row 1: pinedesk -->
+    <circle cx="458" cy="107" r="3" fill="#34c759" />
+    <text x="468" y="111" fill="#1d1d1f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600">pinedesk</text>
+    <text x="580" y="111" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">GLPI 11 · Nginx · Docker</text>
+    <rect x="748" y="97" width="70" height="20" rx="10" fill="#f5f5f7" />
+    <text x="783" y="110.5" text-anchor="middle" fill="#333333" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400">Team Lead</text>
+    <line x1="454" y1="125" x2="818" y2="125" stroke="#000000" stroke-opacity="0.06" stroke-width="1" />
+
+    <!-- Row 2: dlu-onedesk -->
+    <circle cx="458" cy="143" r="3" fill="#34c759" />
+    <text x="468" y="147" fill="#1d1d1f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600">dlu-onedesk</text>
+    <text x="580" y="147" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Next.js 16 · Prisma · PG</text>
+    <rect x="748" y="133" width="70" height="20" rx="10" fill="#f5f5f7" />
+    <text x="783" y="146.5" text-anchor="middle" fill="#333333" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400">Full-stack</text>
+    <line x1="454" y1="161" x2="818" y2="161" stroke="#000000" stroke-opacity="0.06" stroke-width="1" />
+
+    <!-- Row 3: fittrack -->
+    <circle cx="458" cy="179" r="3" fill="#0066cc" />
+    <text x="468" y="183" fill="#1d1d1f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="600">fittrack</text>
+    <text x="580" y="183" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400">Next.js 16 · Supabase</text>
+    <rect x="758" y="169" width="60" height="20" rx="10" fill="#e8f2ff" />
+    <text x="788" y="182.5" text-anchor="middle" fill="#0066cc" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400">Live &#x2197;</text>
+
+    <!-- Bottom macOS Status Bar -->
+    <rect x="436" y="200" width="400" height="30" fill="#fbfbfd" />
+    <line x1="436" y1="200" x2="836" y2="200" stroke="#000000" stroke-opacity="0.06" stroke-width="1" />
+    <text x="454" y="218.5" fill="#6e6e73" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400">Dalat University · IT Center</text>
+    <text x="818" y="218.5" text-anchor="end" fill="#86868b" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10.5" font-weight="400">Da Lat, Vietnam</text>
+  </g>
+
+  <!-- Crisp 1px hairline border on window -->
+  <rect x="436.5" y="30.5" width="399" height="199" rx="11.5" stroke="#000000" stroke-opacity="0.08" stroke-width="1" />
 </svg>
