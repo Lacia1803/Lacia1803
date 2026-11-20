@@ -49,7 +49,9 @@ Final-year **Software Engineering** student at **Dalat University** (CTK46-PM), 
   </tr>
 </table>
 
-> Also built: **[Ebook2LaTeX](https://github.com/Lacia1803/Ebook2LaTeX)** — Python CLI utility for converting ebooks into clean, structured LaTeX documents.
+> **Open Source & Tooling**
+> - **[TsukiWeb](https://github.com/requinDr/tsukiweb-public/pull/138)** · [Live](https://tsukiweb.holofield.fr) — Contributed the full Vietnamese localization (`vi-lacia`) for *Tsukihime* & *PLUS-DISC* (442 scenes, 158k+ lines, custom script preprocessor & UI strings).
+> - **[Ebook2LaTeX](https://github.com/Lacia1803/Ebook2LaTeX)** — Python CLI utility for converting ebooks into clean, structured LaTeX documents.
 
 ---
 
